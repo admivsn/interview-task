@@ -2,11 +2,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/admivsn/interview-task/HEAD?labpath=README.md)
 
-Technical interview
-
-The technical interview is split into two parts:
+The technical interview task is split into three parts:
 
 1. SQL task
-2. Python task
+2. Python OOP task
+3. Python data science task
 
-Please take this time to work through the appropriate SQL task and then the Python task, you will present back after each task.
+Please take this time to work through the appropriate tasks over the next hour. We recommend to spend 10-15 mins on each of the first two tasks, and the remaining time on the final task.
